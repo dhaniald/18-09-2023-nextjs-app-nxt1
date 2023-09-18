@@ -1,7 +1,10 @@
 //1. import area
 
 import Head from 'next/head'
-
+import header from '../components/header';
+import aside from '../components/aside';
+import section from '../components/section';
+import footer from '../components/footer';
  
  // `pages/_app.js`
   
@@ -11,12 +14,12 @@ import Head from 'next/head'
  function Home() {
   return (
     <>
-    <header>Header Component</header>
+   <header />
     <main>
-      <aside> Aside Component</aside>
-      <section>Section  Component</section>
+    <asid/>
+    <section/>
     </main>
-    <footer>Footer Component</footer>
+    <footer/>
     </>
   )
 }
