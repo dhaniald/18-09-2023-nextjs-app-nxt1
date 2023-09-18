@@ -1,0 +1,43 @@
+header{
+  width:980px;
+  height: 140px;
+  background-color: #0D7964;
+  color: #fff;
+  margin: auto;
+  margin-bottom: 10px;
+}
+main{
+  width:980px;
+  height: 450px;
+  color: #fff;   
+  margin: auto;
+  
+}
+aside{
+  width:270px;
+  height: 450px;
+  background-color: red;
+  color: #fff;
+  margin: auto;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+section{
+  width:690px;
+  height: 450px;
+  background-color:blue;
+  color: #fff;
+  margin: auto;
+  float: left;
+  margin-bottom: 10px ;
+   
+}
+footer{
+  width:980px;
+  height: 70px;
+  background-color: #0D7964;
+  color: #fff;
+  margin: auto;
+  margin-top: 10px;
+}
